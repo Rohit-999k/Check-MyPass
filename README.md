@@ -1,2 +1,3 @@
 # Check-MyPass
-A Simple Password Strength Checker
+A Simple Password Strength Checker.
+Author - Rohit Sanodiya
